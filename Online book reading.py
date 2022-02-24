@@ -1,6 +1,6 @@
 from encodings import utf_8
 import os
-os.chdir('C:\\Users\\siddh.LAPTOP-SHL52SQO\\OneDrive\\Desktop\\IBM SS\\Online book reading\\Books')
+os.chdir('Files location')
 class Store():
       def __init__(self,name): #storing name
           self.name=name    
